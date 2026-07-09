@@ -8,7 +8,7 @@ This project presents the preliminary mechanical design of a simple quadruped ro
 
 ## Robot Design
 
-![Isometric View](isometric_view.jpg)
+![Isometric View](Isometric_View.jpg)
 
 *Figure 1: Isometric View of the Robot.*
 
