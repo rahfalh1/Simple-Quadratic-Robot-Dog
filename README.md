@@ -8,7 +8,7 @@ This project presents the preliminary mechanical design of a simple quadruped ro
 
 ## Robot Design
 
-![Isometric View](isometric_view.png)
+![Isometric View](isometric_view.jpg)
 
 *Figure 1: Isometric View of the Robot.*
 
@@ -30,7 +30,7 @@ The robot has four identical legs. Each leg consists of:
 
 This simple design helps the robot stand and walk.
 
-![Front View](front_view.png)
+![Front View](front_view.jpg)
 
 *Figure 2: Front View.*
 
@@ -103,6 +103,6 @@ This design focuses on the basic mechanical principles of a quadruped robot. The
 
 ## Side View
 
-![Side View](side_view.png)
+![Side View](side_view.jpg)
 
 *Figure 3: Side View.*
